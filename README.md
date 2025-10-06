@@ -65,8 +65,8 @@
 ## 🚀 Установка и запуск
 
 ```bash
-git clone <repo_url>
-cd <project_name>
+git clone https://github.com/orozDev/custom_auth_system.git
+cd custom_auth_system
 
 # Установка зависимостей
 pip install -r requirements.txt
